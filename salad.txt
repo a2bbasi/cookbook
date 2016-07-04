@@ -3,5 +3,6 @@ Salad Receipe:
 Ingredients:
 tomato
 lettuce
+ranch dressing
 
-Cut tomatoe, mix it with lettuce, and serve
+Cut tomatoe, mix it with lettuce, add dressing, then serve
