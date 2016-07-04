@@ -3,3 +3,5 @@ Salad Receipe:
 Ingredients:
 tomato
 lettuce
+
+Cut tomatoe, mix it with lettuce, and serve
